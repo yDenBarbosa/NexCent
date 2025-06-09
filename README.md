@@ -47,7 +47,7 @@ Nexcent é um site que desenvolvi a partir de um template no Figma, para testar 
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/yDenBarbosa/NexCent/blob/main/src/assets/images/Thumbnail.png)
+![Mobile1](https://github.com/yDenBarbosa/NexCent/blob/main/Thumbnail.png)
 
 ---
 
