@@ -108,7 +108,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Denis Barbosa da Silva</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-denispfgfut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denispfgfut@gmail.com)](mailto:denispfgfut@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-denis9195@hotmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:denis9195@hotmail.com)](mailto:denis9195@hotmail.com)
 
 ---
 
