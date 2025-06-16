@@ -104,7 +104,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
+<a href="https://www.linkedin.com/in/denis-b-silva/">
 Denis Barbosa da Silva</a>
  <br />
  
